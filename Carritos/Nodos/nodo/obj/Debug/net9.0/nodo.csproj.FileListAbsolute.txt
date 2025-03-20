@@ -1,0 +1,28 @@
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\bin\Debug\net9.0\nodo.exe
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\bin\Debug\net9.0\nodo.deps.json
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\bin\Debug\net9.0\nodo.runtimeconfig.json
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\bin\Debug\net9.0\nodo.dll
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\bin\Debug\net9.0\nodo.pdb
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\obj\Debug\net9.0\nodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\obj\Debug\net9.0\nodo.AssemblyInfoInputs.cache
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\obj\Debug\net9.0\nodo.AssemblyInfo.cs
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\obj\Debug\net9.0\nodo.csproj.CoreCompileInputs.cache
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\obj\Debug\net9.0\nodo.dll
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\obj\Debug\net9.0\refint\nodo.dll
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\obj\Debug\net9.0\nodo.pdb
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\obj\Debug\net9.0\nodo.genruntimeconfig.cache
+C:\Users\jhova\Downloads\Ejercicio01 Factorial\nodos\nodo\obj\Debug\net9.0\ref\nodo.dll
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\bin\Debug\net9.0\nodo.exe
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\bin\Debug\net9.0\nodo.deps.json
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\bin\Debug\net9.0\nodo.runtimeconfig.json
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\bin\Debug\net9.0\nodo.dll
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\bin\Debug\net9.0\nodo.pdb
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\obj\Debug\net9.0\nodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\obj\Debug\net9.0\nodo.AssemblyInfoInputs.cache
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\obj\Debug\net9.0\nodo.AssemblyInfo.cs
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\obj\Debug\net9.0\nodo.csproj.CoreCompileInputs.cache
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\obj\Debug\net9.0\nodo.dll
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\obj\Debug\net9.0\refint\nodo.dll
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\obj\Debug\net9.0\nodo.pdb
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\obj\Debug\net9.0\nodo.genruntimeconfig.cache
+C:\Users\jhova\Downloads\Carritos\Nodos\nodo\obj\Debug\net9.0\ref\nodo.dll
