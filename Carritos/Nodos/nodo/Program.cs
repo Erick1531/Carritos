@@ -59,16 +59,16 @@ public static void InicializarCarritosNormales()
 
         // Crear lista de carritos normales
         Enlazada Normales = new Enlazada();
-        Normales.AgregarFinal("0001", $"{carrito} Carrito Normal");
-        Normales.AgregarFinal("0002", "Carrito Normal");
-        Normales.AgregarFinal("0003", "Carrito Normal");
-        Normales.AgregarFinal("0004", "Carrito Normal");
-        Normales.AgregarFinal("0005", "Carrito Normal");
-        Normales.AgregarFinal("0006", "Carrito Normal");
-        Normales.AgregarFinal("0007", "Carrito Normal");
-        Normales.AgregarFinal("0008", "Carrito Normal");
-        Normales.AgregarFinal("0009", "Carrito Normal");
-        Normales.AgregarFinal("0010", "Carrito Normal");
+        Normales.AgregarFinal("0001", $"{carrito}");
+        Normales.AgregarFinal("0002", $"{carrito}");
+        Normales.AgregarFinal("0003", $"{carrito}");
+        Normales.AgregarFinal("0004", $"{carrito}");
+        Normales.AgregarFinal("0005", $"{carrito}");
+        Normales.AgregarFinal("0006", $"{carrito}");
+        Normales.AgregarFinal("0007", $"{carrito}");
+        Normales.AgregarFinal("0008", $"{carrito}");
+        Normales.AgregarFinal("000", $"{carrito}");
+        Normales.AgregarFinal("0002", $"{carrito}");
 
         // Mostrar resultados
         Normales.contarElementos();
